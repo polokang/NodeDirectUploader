@@ -36,3 +36,10 @@ This example uses the [express](http://expressjs.com/) web framework to facilita
 
 3. modify the region in app.js
    `aws.config.region = "ap-southeast-2"`
+
+##issue
+
+1. change the git repository `git remote -v`
+
+- `git remote rm origion`
+- `git remote add origin https://github.com/polokang/XXX.git`
